@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "powerapps-yaml": {
+      "source": "rohbunny01/powerapps-skills",
+      "sourceType": "github",
+      "skillPath": "powerapps-yaml/SKILL.md",
+      "computedHash": "d097ba66c0d3bda8242db2128931a6b5e25f93c59988d73a15ecbe4c3f4ff9b6"
+    }
+  }
+}
